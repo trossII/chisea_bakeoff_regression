@@ -1,8 +1,8 @@
-# Bake off challenge: Linear Regression
+# Bake off challenge: Regression
 
 ![bakeoff](https://media.giphy.com/media/WvRgv9DdgJtPcIlTEI/giphy.gif)
 
-For this challenge, we will throw you back into the familiar territory of Linear Regression.  However, this will (most likely) be your first experience in a Kaggle-like "contest."  Given a dataset of house prices in King County, Washington, you will be tasked with fitting a model on a labeled training dateset, and submitting housing price predictions on an unlabeled test dataset.  Don't worry if you've already seen this dataset; remember reiteration is a crucial component of CRISP-DM).  Have fun with this. 
+For this challenge, we will throw you back into the familiar territory of  regression, and give you what will (most likely) be your first exposure in a Kaggle-like "contest."  Given a dataset of house prices in King County, Washington, you will be tasked with fitting a model on a labeled training dateset, and submitting housing price predictions on an unlabeled test dataset.  Don't worry if you've already seen this dataset; remember reiteration is a crucial component of CRISP-DM).  Have fun with this. 
 
 ## Data files
 
@@ -21,8 +21,9 @@ You will find two data files in this repo, along with one file describing the fe
 ## Instructions
 - Every team member fork and then clone this repo onto your computer. Figure out a strategy for how to collaborate, which may look like selecting one team member as the primary "coder".  We leave it to you to set-up a productive team dynamic, but keep in mind, the deliverable of this exercise is one csv file.   
 - Load up a Jupyter and start CRISP'ing.
-- The instructions for this bakeoff are limited with regards to modeling. Go wild.  Feature engineer your head off.
-- Once you are satisfied with your model, or you find time runing out, use the kc_house_data_test.csv to predict a price for each of the 4323 house records.  See Submission guidelines below.
+- The instructions for this bakeoff are limited with regards to modeling. Go wild. Use any model you want.  Feature engineer your head off.
+- Once you are satisfied with your model, or you find time runing out, use the kc_house_data_test.csv to predict a price for each of the 4323 house records.  See Submission guidelines below. 
+- Please be sure to use your own work.  If you have worked on this dataset before, don't copy and paste your previous work. Obviously there is no way that we can ask you not to use past experience, but we can ask you not to use past code.
 
 ## Submissions
 Save your predictions in a csv file with the following pattern. 
