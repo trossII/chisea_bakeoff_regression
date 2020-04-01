@@ -2,7 +2,7 @@
 
 ![bakeoff](https://media.giphy.com/media/WvRgv9DdgJtPcIlTEI/giphy.gif)
 
-For this challenge, we will throw you back into the familiar territory of  regression, and give you what will (most likely) be your first exposure in a Kaggle-like "contest."  Given a dataset of house prices in King County, Washington, you will be tasked with fitting a model on a labeled training dateset, and submitting housing price predictions on an unlabeled test dataset.  Don't worry if you've already seen this dataset; remember reiteration is a crucial component of CRISP-DM).  Have fun with this. 
+For this challenge, we will throw you back into the familiar territory of  regression, and give you what will (most likely) be your first exposure in a Kaggle-like "contest."  Given a dataset of house prices in King County, Washington, you will be tasked with fitting a model on a labeled training dateset, and submitting housing price predictions on an unlabeled test dataset.  Don't worry if you've already seen this dataset; remember reiteration is a crucial component of CRISP-DM.  Have fun with this. 
 
 ## Data files
 
